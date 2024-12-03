@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.8e70ea13.css",
-    "main.js": "/static/js/main.6787ff38.js",
+    "main.js": "/static/js/main.d8c3288a.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/static/js/487.7ae187c0.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.567a0b93.chunk.js": "/static/js/990.567a0b93.chunk.js",
     "static/media/chandio.JPG": "/static/media/chandio.de3a5a421094567caefe.JPG",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/umair.jpg": "/static/media/umair.d80824cc5347327428d8.jpg",
     "static/media/drone.jpeg": "/static/media/drone.bfd5fb08372283e6904a.jpeg",
     "static/media/hax273.jpg": "/static/media/hax273.c96458a063139afe2ba4.jpg",
     "static/media/mujtaba pic.jpg": "/static/media/mujtaba pic.dbf4be0ee8248759bb04.jpg",
@@ -26,7 +27,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.8e70ea13.css.map": "/static/css/main.8e70ea13.css.map",
-    "main.6787ff38.js.map": "/static/js/main.6787ff38.js.map",
+    "main.d8c3288a.js.map": "/static/js/main.d8c3288a.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/static/js/487.7ae187c0.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -34,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.8e70ea13.css",
-    "static/js/main.6787ff38.js"
+    "static/js/main.d8c3288a.js"
   ]
 }
